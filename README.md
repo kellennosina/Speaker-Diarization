@@ -1,4 +1,4 @@
-🎙️ Speaker Diarization — “Who Spoke When?”
+**🎙️ Speaker Diarization — “Who Spoke When?”**
 📌 Overview
 
 Speaker diarization is the process of partitioning an audio stream into homogeneous segments according to the speaker identity. In simple terms: it’s figuring out “who spoke when” in an audio file.
@@ -17,7 +17,7 @@ Clustering to assign segments to speakers.
 
 Timestamped diarization output in text and/or visualization format.
 
-🚀 Features
+**🚀 Features**
 
 🔊 Handles noisy environments with preprocessing.
 
@@ -29,7 +29,7 @@ Timestamped diarization output in text and/or visualization format.
 
 📁 Supports multiple audio formats (.wav, .mp3, etc.).
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Python (Core implementation)
 
@@ -42,8 +42,8 @@ Librosa & Soundfile (Audio processing)
 Scikit-learn (Clustering)
 
 Matplotlib (Visualization)
-
-📂 Project Structure
+**
+📂 Project Structure**
 speaker-diarization/
 │
 ├── data/                 # Sample audio files
@@ -88,6 +88,6 @@ Integration with speech-to-text for speaker-attributed transcription.
 
 Support for multilingual audio.
 
-📜 License
+**📜 License**
 
 This project is licensed under the MIT License.
